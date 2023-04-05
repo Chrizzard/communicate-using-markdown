@@ -8,3 +8,8 @@ Dit is een stukje code
 ```
 $ git init
 ```
+
+Dit is een task list
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
